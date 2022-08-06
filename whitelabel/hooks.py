@@ -16,6 +16,9 @@ app_logo_url = '/assets/whitelabel/images/whitelabel_logo.jpg'
 
 # Includes in <head>
 # ------------------
+# include js, css files in header of desk.html
+app_include_css = "/assets/erpnext_theme/css/erpnext_theme.css"
+# app_include_js = "/assets/erpnext_theme/js/erpnext_theme.js"
 
 # include js, css files in header of desk.html
 app_include_css = "/assets/whitelabel/css/whitelabel_app.css"
